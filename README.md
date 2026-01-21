@@ -1,16 +1,42 @@
-# React + Vite
+# React News Portal Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive news portal web application built using React and Vite.  
+This project includes Firebase Authentication, dynamic content loading using Fetch API, protected routing, and a clean UI powered by Tailwind CSS and DaisyUI.
 
-Currently, two official plugins are available:
+It demonstrates real-world frontend development practices such as authentication management, component reusability, API integration, and scalable project structure.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+##  Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+-  Firebase Authentication (Login / Register / Logout)
+-  Authentication state management using React Context API
+-  Protected Routes with React Router
+-  Dynamic JSON data fetching using Fetch API
+-  Dynamic news rendering from local JSON data
+-  Fully responsive UI using Tailwind CSS & DaisyUI
+-  Date formatting using date-fns
+-  Icons powered by React Icons
+-  Fast development environment with Vite
+-  Reusable component architecture
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- Firebase Authentication
+- React Router DOM
+- Tailwind CSS
+- DaisyUI
+- React Icons
+- date-fns
+- Fetch API
+- Context API
+
+---
+
+##  Project Setup
+
+###  Clone the repository
