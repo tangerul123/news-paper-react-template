@@ -6,6 +6,10 @@ This project includes Firebase Authentication, dynamic content loading using Fet
 It demonstrates real-world frontend development practices such as authentication management, component reusability, API integration, and scalable project structure.
 
 ---
+🔗 Live Demo
+
+View Live Demo
+ <!-- Replace # with your live URL -->
 
 ##  Features
 
