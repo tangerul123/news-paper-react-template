@@ -8,7 +8,7 @@ It demonstrates real-world frontend development practices such as authentication
 ---
 🔗 Live Demo
 
-View Live Demo
+[View Live Demo](https://dragon-news-auth-2fb5a.web.app/category/0)
  <!-- Replace # with your live URL -->
 
 ##  Features
